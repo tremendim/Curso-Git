@@ -1,0 +1,1 @@
+git pull - Puxar alterações do repositorio remoto e mesclar com o rep local
